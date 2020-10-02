@@ -1206,5 +1206,5 @@ One could try to optimize the controller parameters.
         __Dymola_experimentSetupOutput);
     end DCEE_Start;
   end DC;
-annotation (uses(Modelica(version="3.2.2")));
+annotation (uses(Modelica(version="3.2.3")));
 end EK5312Models;
